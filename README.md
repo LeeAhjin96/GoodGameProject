@@ -60,10 +60,18 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 
 # Tools
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<div align=center>
+  <h1>Studying !</h1>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-000000?style=flat-square&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
 # 방문자 수
